@@ -1,0 +1,15 @@
+/* Styles go here */
+
+div{
+  padding:5px;
+}
+input{
+  width:30%;
+}
+li{
+  list-style:none;
+  padding:5px;
+}
+button{
+  margin:auto;
+}
