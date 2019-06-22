@@ -1,5 +1,7 @@
 /* Styles go here */
-
+body{
+   background:#dedede;
+}
 div{
   padding:5px;
 }
@@ -12,4 +14,11 @@ li{
 }
 button{
   margin:auto;
+}
+h1{
+  text-align:center;
+}
+::placeholder {
+    padding: 5px;
+    color: #ababab;
 }
